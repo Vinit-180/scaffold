@@ -1,0 +1,142 @@
+{
+	"screens": {
+		"screen2": {
+
+			"id": "screen2",
+			 
+
+			"buttons": {
+				"btn": [{
+						"name": "button0",
+						"id": "0",
+						"xpos": "110",
+						"ypos": "678",
+						"btnimg": "blueband",
+						"type": "clone",
+						"animtype": "normal"
+
+					}
+
+				]
+			},
+			"assets": [{
+					"filename": "redband",
+					"type": ".png"
+				},
+				{
+					"filename": "greenband",
+					"type": ".png"
+				},
+				{
+					"filename": "orangeband",
+					"type": ".png"
+				},
+				{
+					"filename": "yellowband",
+					"type": ".png"
+				},
+				{
+					"filename": "blueband",
+					"type": ".png"
+				},
+				{
+					"filename": "singleredband",
+					"type": ".png"
+				},
+				{
+					"filename": "singlegreenband",
+					"type": ".png"
+				},
+				{
+					"filename": "singleorangeband",
+					"type": ".png"
+				},
+				{
+					"filename": "singleyellowband",
+					"type": ".png"
+				},
+				{
+					"filename": "singleblueband",
+					"type": ".png"
+				},
+
+				{
+					"filename": "active_sq_grid",
+					"type": ".png"
+				},
+				{
+					"filename": "deactive_sq_grid",
+					"type": ".png"
+				},
+				{
+					"filename": "active_cir_grid",
+					"type": ".png"
+				},
+				{
+					"filename": "deactive_cir_grid",
+					"type": ".png"
+				},
+
+				{
+					"filename": "undo",
+					"type": ".png"
+				},
+				{
+					"filename": "reset",
+					"type": ".png"
+				},
+				{
+					"filename": "pegcircle",
+					"type": ".png"
+				},				
+				{
+					"filename": "bullet",
+					"type": ".png"
+				},
+				{
+					"filename": "board",
+					"type": ".jpg"
+				},
+				{
+					"filename":"fakeline",
+					 "type":".png"
+				},
+				{
+					"filename":"toolref",
+					 "type":".png"
+				},
+				{
+					"filename":"pegcircle_red",
+					 "type":".png"
+				},
+				{
+					"filename":"pegcircle_green",
+					 "type":".png"
+				},
+				{
+					"filename":"pegcircle_blue",
+					 "type":".png"
+				},
+				{
+					"filename":"pegcircle_orange",
+					 "type":".png"
+				},
+				{
+					"filename":"pegcircle_yellow",
+					 "type":".png"
+				},
+				{
+					"filename":"toolbg",
+					 "type":".png"
+				},
+				{
+					"filename": "toolbtns",
+					"type": ".spritesheet|png",
+					"frameWidth": "52",
+					"frameHeight": "52"
+				}
+
+			]
+		}
+	}
+}
